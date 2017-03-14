@@ -1,5 +1,3 @@
-# siemter.github.io
 Siemen Termont
 *******
-
-Welcome!
+Welcome to my wicked space!
